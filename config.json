@@ -1,0 +1,20 @@
+{
+  "data": {
+    "type_load": "All"
+  },
+  "volt_limit": {
+    "volt_upper": 1.05,
+    "volt_lower": 0.95
+  },
+  "base": {
+    "s_base": 1,
+    "u_base": 12.66
+  },
+  "economic_parameters": {
+    "c_delta_a": 12,
+    "r": 0.08,
+    "M": 5,
+    "Y": 10,
+    "K": 1000
+  }
+}
