@@ -1,6 +1,6 @@
 {
   "data": {
-    "type_load": "All"
+    "type_load": "Residential"
   },
   "volt_limit": {
     "volt_upper": 1.05,
@@ -14,7 +14,7 @@
     "c_delta_a": 12,
     "r": 0.08,
     "M": 5,
-    "Y": 10,
-    "K": 1000
-  }
+    "Y": 10
+  },
+  "solver": "cplex"
 }
